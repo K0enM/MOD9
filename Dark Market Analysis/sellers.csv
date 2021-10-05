@@ -1,29 +1,57 @@
-Seller,Number of reviews,grade (out of 5),Active listing,Kind of vendor
-woodstock,34,"4,27",85,Diamond
-donalddrugs,340,"4,97",151,Basic
-qualityshop,51,"4,34",86,Gold
-firebunny,484,"4,73",64,Basic
-amphetamine,,,,
-roiducannab,39,"4,75",47,Basic
-thehammockc,,,,
-tomandjerry,,,,
-montecrypto,,,,
-straightfromnl,,,,
-marynaga,62,"4,55",548,Basic
-eternos,,,,
-centralbank,,,,
-boyfootstep1,,,,
-probitexcha,,,,
-namedecline,,,,
-kenza,,,,
-sexyhomer,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-goldapple,,,,
-drhack3r,,,,
-,,,,
-thedangeroustomato,,,,
+Seller,Number of reviews,grade (out of 5),Active listings,Kind of vendor,Category
+woodstock,34,4.27,85,Diamond,Drugs
+donalddrugs,340,4.97,151,Basic,Drugs
+qualityshop,53,4.34,86,Gold,Drugs
+firebunny,484,4.73,64,Basic,Drugs
+amphetamine,45,4.09,30,Basic,Drugs
+roiducannab,39,4.75,47,Basic,Drugs
+thehammockc,8,4.88,34,Basic,Drugs
+tomandjerry,150,4.23,96,Diamond,Drugs
+pressurepacks,1232,4.9,200,Gold,Drugs
+thepostman ,263,4.63,54,Diamond,Drugs
+mushmedic ,17,4.77,19,Gold,Drugs
+thebodyshop ,166,4.62,153,Gold,Drugs
+maurelius ,86,4.96,153,Gold,Drugs
+hotgirlzclub ,123,4.9,34,Basic,Drugs
+tranquiltreats ,392,4.89,10,Gold,Drugs
+sstore,33,4.82,19,Basic,Drugs
+highqualitythc,52,5,27,Gold,Drugs
+montecrypto,9,4.78,18,Gold,Services
+thebestseller,221,4.24,465,Diamond,Services
+Whitechapel,27,5,265,Diamond,Services
+fikshawn,4,5,16,Basic,Services
+cocacola007,184,4.66,95,Basic,Software
+breadsdrugged ,640,4.64,1221,Diamond,Software
+straightfromnl,44,4.85,146,Diamond,Forgery
+marynaga,62,4.55,548,Basic,Forgery
+eternos,14,4.93,550,Basic,Hacking
+centralbank,1,5,40,Gold,Forgery
+boyfootstep1,1,5,139,Basic,Accessoires
+drhack3r,614,4.57,542,Diamond,Accounts
+probitexchanges,44,4.52,21,Basic,Drugs
+namedecline,336,4.71,65,Gold,Documents
+kenza,130,4.74,213,Gold,Accessoires
+sexyhomer,12,4.59,587,Basic,Accessoires
+goldapple,199,4.27,478,Gold,Documents
+thedangeroustomato,41,4.67,99,Basic,Tutorials
+mrq1234,11,4.46,1179,Gold,Tutorials
+katarina,68,4.11,3170,Basic,Database breach
+whiteenigma,122,4.86,50,Gold,Hacking
+speedexpressde,67,4.1,14,Gold,Vendors equipment
+auspridestore,457,4.84,163,Diamond,Vendors equipment
+prioritymail,8,4.88,33,Diamond,Vendors equipment
+g3cko,161,4.29,226,Diamond,Gambling
+godsend,127,4.59,32,Basic,Gambling
+thepirateisland,277,4.81,734,Gold,Accounts
+drwhit3,57,3.37,34,Basic,Accounts
+proseller,81,4.4,157,Gold,Accounts
+kingaccount,255,4.83,535,Gold,Accounts
+digitalworld,549,4.78,130,Gold,Accounts
+princeharry,35,4.84,5,Diamond,Accounts
+purpleturtle,3,5,24,Gold,Accounts
+victorviran,7,3.43,197,Gold,Accounts
+drunkdragon,309,3.52,516,Diamond,Tutorials
+Socialwarrior,154,4.38,665,Gold,Tutorials
+Justpornstore,14,3.07,74,Basic,Software
+Doguitdelft,16,4.01,12,Gold,Software
+whitewater,545,4.41,423,Gold,Tutorials
